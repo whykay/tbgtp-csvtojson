@@ -1,0 +1,28 @@
+game,game_stage,games_stage_tail_text,yellow_button,blue_button,reset_button,
+0,0,"But it’s getting dark. Strange, why is it getting brighter again as you get closer to where you found yourself earlier?
+
+There’s a gate to your left that leads to a small quaint house.
+
+To your right, someone is coming up the road singing a jaunty song.","You have chosen well. Yellow is the colour of gold, sunshine… not of fear.
+
+You are in a world of wonder, surrounded by happiness and it seems to be too rose-tinted to be true.","Blue is the colour of a peaceful mind. It feels so serene here, so safe.
+
+What is this amazing place. 
+
+
+
+",,
+0,1,"What happens next? 
+
+Yellow or Blue button","The small quaint house’s roof was sparkling like inside of a shell, its walls were made of brick of an undefined colour which seems to shift depending on the light. The garden was bountiful of flowers unknown. ","With the biggest smile, you look up the individual who was walking at an even pace towards you.",,
+0,2,"All of a sudden... you were shaken and confusingly, you open your eyes blearily looking up at a few pairs of eyes staring worringly at you. Realising that what you thought you saw was just a distant memory, and you were knocked unconscious after taking a tumble after falling out of a bouncy castle.
+Yes, adults are not meant to be in bouncy castles, but it's too much fun. Ow, my head... ""I'm alright!"" as you get up and proceeded back into the bouncy castle. 
+
+The End","The feeling of serenity hits you, you are dreaming, right? This feels so peaceful.","You noticed the suit, then the walking stick, then those eyes… the smile was menacing. You try and back away…",,
+1,0,"He is a comedian from The Grove who is writing a book.
+
+One day, he exchanges a cow for some magic beans.","Dear reader, I wish I could tell you that it ends well for you. Well, more pointedly at someone called T. Spruce.",Do you know T. Spruce?,,
+1,1,But Spruce returns to old habits.,He realises he must first find the magic ring.,"He decides to uncover the truth. Unfortunately, things do not go as planned and the precious object was actually worthless.",,
+1,2,"Spruce and Hat become a permanent crime fighting duo.
+
+The End","He decides to investigate further. He enlists the help of her best friend, a student called Hat Mara. Together they found a valuable gold goblet, and stumbles upon a book that predicts their future. However, nobody laughs at his jokes. ","Luckily, he is able to talk himself out of the situation with the help of a companion called Hat Mara.",,
